@@ -1,0 +1,67 @@
+body {
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    background: linear-gradient(to right, #FC466B, #3F5EFB);/* Standard syntax */
+    overflow-y: hidden;
+}
+  form {
+    background-color: rgba(255, 255, 255, 0.5);
+	top: 100px;
+    padding-top: 0.5px;
+	box-shadow: 0 0 10px white;
+	position: relative;
+	margin-left: 400px;
+	width: 500px;
+	height: 300px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	-ms-border-radius: 15px;
+	-o-border-radius: 15px;
+	border-radius: 15px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+	font-family: "Courier New", Courier, monospace;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+label {
+    font-size: 15px;
+	font-family: "Courier New", Courier, monospace;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.01em;
+}
+
+input {
+    background: transparent;
+    border: 1px solid rgba(0,0,0,.5);
+    box-shadow: 4px 4px 60px rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+h2 {
+    font-size: 1.5rem;
+	font-family: "Courier New", Courier, monospace;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+h3 {
+    font-size: 1rem;
+	font-family: "Courier New", Courier, monospace;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
